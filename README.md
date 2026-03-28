@@ -32,4 +32,4 @@ To view the demo locally:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/AbdelaaliElkamdani/atlas-ai-landing.git](https://github.com/AbdelaaliElkamdani/atlas-ai-landing.git)
+   git clone https://github.com/AbdelaaliElkamdani/atlas-ai-landing.git
